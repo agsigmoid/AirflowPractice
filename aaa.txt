@@ -1,0 +1,72 @@
+Last login: Wed Sep  8 14:46:33 on ttys000
+(base) Agam_Gupta@AS-MAC-0047 ~ % ls
+Applications		Music			airflow
+Desktop			Pictures		airflow_leanring
+Documents		Public			getting-started
+Downloads		PycharmProjects		opt
+IdeaProjects		Python_Practice		test.db
+Library			Untitled.ipynb		testbackup
+Movies			Untitled1.ipynb
+(base) Agam_Gupta@AS-MAC-0047 ~ % cd Desktop 
+(base) Agam_Gupta@AS-MAC-0047 Desktop % ls     
+OOPSPractice	Sigmoid		practiceGit
+(base) Agam_Gupta@AS-MAC-0047 Desktop % ls
+OOPSPractice	Sigmoid		practiceGit
+(base) Agam_Gupta@AS-MAC-0047 Desktop % mkdir projects
+(base) Agam_Gupta@AS-MAC-0047 Desktop % cd projects 
+(base) Agam_Gupta@AS-MAC-0047 projects % git init demo
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/Agam_Gupta/Desktop/projects/demo/.git/
+(base) Agam_Gupta@AS-MAC-0047 projects % cd demo 
+(base) Agam_Gupta@AS-MAC-0047 demo % git branch
+(base) Agam_Gupta@AS-MAC-0047 demo % ls
+(base) Agam_Gupta@AS-MAC-0047 demo % ls
+(base) Agam_Gupta@AS-MAC-0047 demo % git clone https://github.com/agsigmoid/AirflowPractice.git
+Cloning into 'AirflowPractice'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+(base) Agam_Gupta@AS-MAC-0047 demo % git branch
+(base) Agam_Gupta@AS-MAC-0047 demo % ls
+AirflowPractice
+(base) Agam_Gupta@AS-MAC-0047 demo % cd AirflowPractice 
+(base) Agam_Gupta@AS-MAC-0047 AirflowPractice % ls
+README.md
+(base) Agam_Gupta@AS-MAC-0047 AirflowPractice % git branch
+* main
+(base) Agam_Gupta@AS-MAC-0047 AirflowPractice % vim README.md 
+
+isssededrefrfrf 
+ts contain DAG files 
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
